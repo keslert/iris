@@ -1,7 +1,6 @@
 import React from 'react';
-
-
 // Use https://css-tricks.com/snippets/css/css-conic-gradient/
+
 function ColorWheel(props) {
 
   const colors = props.defaultColors;
